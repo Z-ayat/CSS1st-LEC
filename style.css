@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+/* Global rules */
 ul {
     list-style: none;
     display: flex;
@@ -24,4 +25,15 @@ justify-content: center;
 }
 .active{
     color: #14FFEC;
+}
+header{
+    background-image: url();
+    height: calc(100vh - 56px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background: url() no-repeat scroll center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
