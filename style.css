@@ -38,3 +38,5 @@ header{
     align-items: center;
     flex-direction: column;
 }
+header h1{color: #14FFEC;}
+header p{color: #0D7377;}
