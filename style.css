@@ -17,10 +17,10 @@ a {
 /* Attributes */
 
 :root {
-    --main-black: #212121;
-    --scnd-black: #474747;
-    --main-text-clr: #0D7377;
-    --text-bright: #14FFEC;
+    --main-black: #1f2937;
+    --scnd-black: #283444;
+    --main-text-clr: #01744f;
+    --text-bright: #059669;
 }
 
 .arabic {
